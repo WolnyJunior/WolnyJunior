@@ -2,7 +2,7 @@
 - 👀 Estou interessado em aprender linguagens de programação.
 - 🌱 Estou cursando análise  e desenvolvimento de sistemas.
 - 💞️ Ainda estou fazendo mais um curso para me tornar um Desenvolvedor Web Full Stack
-- 📫 Meus contatos:  soares.junior.dev@gmail.com sorin@curriculosorin.com.br curriculosorin.com.br
+- 📫 Meus contatos:  soares.junior.dev@gmail.com sorin@curriculosorin.com.br
 
 <!---
 WolnyJunior/WolnyJunior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
