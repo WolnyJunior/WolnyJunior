@@ -3,4 +3,4 @@
 - JS/HTML/CSS- Python/Java São as principais, porém, com o tempo, pretendo aprender mais além dessas.
 - 🌱 Estou cursando análise  e desenvolvimento de sistemas.
 - 💞️ Ainda estou fazendo mais um curso para me tornar um Desenvolvedor Web Full Stack
-- 📫 Meus contatos:  soares.junior.dev@gmail.com sorin@curriculosorin.com.br
+- 📫 Meus contatos: sorin@curriculosorin.com.br
