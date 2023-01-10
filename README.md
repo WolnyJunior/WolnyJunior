@@ -1,6 +1,11 @@
-- 👋 Olá, eu me chamo Wolny Junior, mais conhecido pelo apelido, Sorin.
-- 👀 Estou interessado em aprender linguagens de programação.
-- JS/HTML/CSS- Python/Java São as principais, porém, com o tempo, pretendo aprender mais além dessas.
-- 🌱 Estou cursando análise  e desenvolvimento de sistemas.
-- 💞️ Ainda estou fazendo mais um curso para me tornar um Desenvolvedor Web Full Stack
-- 📫 Meus contatos: sorin@curriculosorin.com.br
+-  Olá, eu me chamo Wolny Junior.
+-  Tenho interesse em me tornar um Dev Web.
+-  Front - Back  - ou - Full Stack
+-  Ainda não decidi essa parte, pois recém estou na parte de front-end.
+-  Já tive contato com as techs:
+-  JS - HTML - CSS - Git - Firebase - MySQL - Bootstrap - C# - Python - Java
+-  Cursando 5º semestre do curso de análise  e desenvolvimento de sistemas.
+-  Estou fazendo um cursod desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
+-  Meus contatos: 
+-  <a href="sorin@curriculosorin.com.br" target="_blank">Site/Trabalho de Desenvolvimento Web</a>
+-  <a href="https://www.linkedin.com/in/wolny-junior-soares-magalh%C3%A3es-21a61b128/" target="_blank">LinkedIn</a>
