@@ -1,11 +1,9 @@
--  Olá, eu me chamo Wolny Junior.
+## Olá, eu me chamo Wolny Junior.
 -  Tenho interesse em me tornar um Dev Web.
--  <img src="https://img.shields.io/badge/-Front--End-yellow"> Front - Back  - ou - Full Stack
--  Ainda não decidi essa parte, pois recém estou na parte de front-end.
--  Já tive contato com as techs:
--  JS - HTML - CSS - Git - Firebase - MySQL - Bootstrap - C# - Python - Java
+-  <img src="https://img.shields.io/badge/-Front--End-yellow">, <img src="https://img.shields.io/badge/-Back--End-white">, ou <img src="https://img.shields.io/badge/Full-Stack-blue">
+-  Ainda não decidi essa parte, pois recém estou na parte de <img src="https://img.shields.io/badge/-Front--End-yellow">.
 -  Cursando 5º semestre do curso de análise  e desenvolvimento de sistemas.
--  Estou fazendo um cursod desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
+-  E estou fazendo um curso desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
 <div align="center">
   <a href="https://github.com/wolnyjunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolnyjunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +16,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
     <img align="center" alt="GIT" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
           
-    <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+    <img align="right" alt="pic" height="150" style="border-radius:50px;" src="">
   </div>
 </div>
 
