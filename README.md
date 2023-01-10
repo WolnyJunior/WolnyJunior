@@ -7,5 +7,5 @@
 -  Cursando 5º semestre do curso de análise  e desenvolvimento de sistemas.
 -  Estou fazendo um cursod desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
 -  Meus contatos: 
--  <a href="sorin@curriculosorin.com.br" target="_blank">Site/Trabalho de Desenvolvimento Web</a>
+-  <a href="http://curriculosorin.com.br/index.html" target="_blank">Site/Trabalho de Desenvolvimento Web</a>
 -  <a href="https://www.linkedin.com/in/wolny-junior-soares-magalh%C3%A3es-21a61b128/" target="_blank">LinkedIn</a>
