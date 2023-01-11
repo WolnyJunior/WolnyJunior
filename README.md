@@ -27,6 +27,6 @@
     <a href="https://www.instagram.com/juniorsorin/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
     <a href = "mailto:juninhosorin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
     <a href="http://curriculosorin.com.br/index.html"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-
-![snake gif](https://github.com/WolnyJunior/WolnyJunior/blob/output/github-contribution-grid-snake.gif)
+ 
+![Snake animation](https://github.com/WolnyJunior/WolnyJunior/blob/output/github-contribution-grid-snake.svg)
 </div>
