@@ -6,7 +6,7 @@
 -  E estou fazendo um curso desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
 
 <div align="center">
-  <a href="https://github.com/wolnyjunior">
+  <a href="https://github.com/WolnyJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WolnyJunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
 </div>
 
