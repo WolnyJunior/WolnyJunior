@@ -1,7 +1,6 @@
 ## Olá, eu me chamo Wolny Junior.
 -  Tenho interesse em me tornar um Dev Web.
 -  <img src="https://img.shields.io/badge/-Front--End-yellow">, <img src="https://img.shields.io/badge/-Back--End-white">, ou <img src="https://img.shields.io/badge/Full-Stack-blue">
--  Atualmente estou estudando mais coisas sobre o <img src="https://img.shields.io/badge/-Front--End-yellow">.
 -  Cursando 5º semestre do curso de análise  e desenvolvimento de sistemas.
 -  E estou fazendo um curso desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
 
