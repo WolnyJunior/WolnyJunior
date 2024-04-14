@@ -9,12 +9,16 @@
 ### Soft Skills
  <p>Versatilidade; Adaptabilidade; Trabalho em equipe; Resolução de problemas; Pensamento analítico; Empatia; entre outras.</p>
 
+### Techs - Linguagens - Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,postgresql,express,postman,sequelize,vscode,git,vercel,github)](https://skillicons.dev)
+
 <div align="center">
   <a href="https://github.com/WolnyJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WolnyJunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,postgresql,express,postman,sequelize,vscode,git,vercel,github)](https://skillicons.dev)
+
 
 ##
 
