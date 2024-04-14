@@ -1,15 +1,20 @@
-## Olá, eu me chamo Wolny Junior.
--  Tenho interesse em me tornar um Dev Web.
--  <img src="https://img.shields.io/badge/-Front--End-yellow">, <img src="https://img.shields.io/badge/-Back--End-white">, ou <img src="https://img.shields.io/badge/Full-Stack-blue">
--  Cursando 5º semestre do curso de análise  e desenvolvimento de sistemas.
--  E estou fazendo um curso desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
+### Olá, eu me chamo Wolny Junior.
+- Desenvolvedor Web Jr.
+- Buscando ingressar na área tech.
+- Moro no interior do Rio Grande do Sul.
+- Formado em ADS.
+- Atualmente participo do curso online FuturoDev do LAB365, programa Floripa +Tec, pelo Senai/SC-Florianópolis.
+- Fiz parte do curso Desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
+
+### Soft Skills
+ <p>Versatilidade; Adaptabilidade; Trabalho em equipe; Resolução de problemas; Pensamento analítico; Empatia; entre outras.</p>
 
 <div align="center">
   <a href="https://github.com/WolnyJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WolnyJunior&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,postgresql,express,nodejs,postman,sequelize,vscode,js,git,vercel,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,postgresql,express,postman,sequelize,vscode,git,vercel,github)](https://skillicons.dev)
 
 ##
 
