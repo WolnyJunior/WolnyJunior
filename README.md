@@ -11,7 +11,7 @@
 
 ### Techs - Linguagens - Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,js,postgresql,express,postman,sequelize,vscode,git,vercel,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,js,postgresql,express,postman,sequelize,vscode,git,vercel,github)](https://skillicons.dev)
 
 <div align="center">
   <a href="https://github.com/WolnyJunior">
