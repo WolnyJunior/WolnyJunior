@@ -1,15 +1,18 @@
-### Olá, eu me chamo Wolny Junior.
-- Desenvolvedor Web Jr.
-- Buscando ingressar na área tech.
-- Moro no interior do Rio Grande do Sul.
-- Formado em ADS.
-- Curso FuturoDev do LAB365, programa Floripa +Tec, pelo Senai/SC-Florianópolis.
-- Curso Desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
+### 👋 **Olá, eu me chamo Wolny Junior.**
+💻 Desenvolvedor Web Junior | 🚀 Apaixonado por tecnologia e aprendizado constante
 
-### Soft Skills
- <p>Versatilidade; Adaptabilidade; Trabalho em equipe; Resolução de problemas; Pensamento analítico; Empatia; entre outras.</p>
+- 📍 Moro no interior do Rio Grande do Sul.
+- 🎓 Formado em ADS.
+- 🧠 Curso FuturoDev do LAB365, programa Floripa +Tec, pelo Senai/SC-Florianópolis.
+- 💡 Curso Desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
+- 🌱 Focado em aprimorar habilidades em **React, Node.js, bancos de dados e boas práticas de código**
 
-### Techs - Linguagens - Ferramentas
+---
+
+### 🧠 **Soft Skills**
+ <p>🔹Versatilidade 🔹Adaptabilidade 🔹Trabalho em equipe 🔹Resolução de problemas 🔹Pensamento analítico 🔹Empatia 🔹Comunicação</p>
+
+### 🛠️ Techs - Linguagens - Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,js,postgresql,express,postman,sequelize,vscode,git,vercel,github)](https://skillicons.dev)
 
@@ -20,7 +23,7 @@
 
 
 
-##
+### 🌐 **Onde me encontrar**
 
 <div>
     <a href="https://www.linkedin.com/in/wolny-junior-soares-magalh%C3%A3es-21a61b128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -28,6 +31,12 @@
     <a href="https://www.instagram.com/juniorsorin/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
     <a href = "mailto:juninhosorin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
     <a href="https://portfolio-2023-dusky.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</div>
 
+--- 
+
+💬 *“Aprender, criar e compartilhar — um commit por vez.”*
+
+⭐ Salva-esse-post.js
   
 
