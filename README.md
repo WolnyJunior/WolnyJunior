@@ -4,7 +4,7 @@
 - Moro no interior do Rio Grande do Sul.
 - Formado em ADS.
 - Curso FuturoDev do LAB365, programa Floripa +Tec, pelo Senai/SC-Florianópolis.
-- Fiz parte do curso Desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
+- Curso Desenvolvimento Web Full Stack - <a href="https://programadorbr.com/" target="_blank">ProgramadorBr</a>
 
 ### Soft Skills
  <p>Versatilidade; Adaptabilidade; Trabalho em equipe; Resolução de problemas; Pensamento analítico; Empatia; entre outras.</p>
